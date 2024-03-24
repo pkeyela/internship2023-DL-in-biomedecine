@@ -1,0 +1,6 @@
+TRAIN_DATA_LOC = r'data/rawData/train'
+TEST_DATA_LOC = r'data/rawData/test'
+PRED_DATA_LOC = r'data/rawData/pred'
+ANNOT_LOC = r'data/02_intermediate'
+MODEL_SAVE_LOC = r'data/04_model'
+REPORT_SAVE_LOC = r'data/06_reporting'
