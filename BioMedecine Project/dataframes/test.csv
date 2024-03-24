@@ -1,0 +1,89 @@
+file_name,file_path,class_name,class_index
+Video_Morris_Maze_30_days_Day2_Protons_rat1_11-43-42_DS.png,../data/test/Chaining/Video_Morris_Maze_30_days_Day2_Protons_rat1_11-43-42_DS.png,Chaining,0
+Video_Morris_Maze_30_days_Day1_Protons_rat2_12-25-22_DS.png,../data/test/Chaining/Video_Morris_Maze_30_days_Day1_Protons_rat2_12-25-22_DS.png,Chaining,0
+Video_Morris_Maze_30_days_Day1_Protons_rat7_12-47-20_DS.png,../data/test/Chaining/Video_Morris_Maze_30_days_Day1_Protons_rat7_12-47-20_DS.png,Chaining,0
+Video_Morris_Maze_30_days_Day2_Control_rat5_11-11-13_DS.png,../data/test/Chaining/Video_Morris_Maze_30_days_Day2_Control_rat5_11-11-13_DS.png,Chaining,0
+Video_Morris_Maze_30_days_Day2_Protons_rat5_11-57-42_DS.png,../data/test/Chaining/Video_Morris_Maze_30_days_Day2_Protons_rat5_11-57-42_DS.png,Chaining,0
+Video_Morris_Maze_30_days_Day2_Protons_rat1_11-44-24_DS.png,../data/test/Chaining/Video_Morris_Maze_30_days_Day2_Protons_rat1_11-44-24_DS.png,Chaining,0
+Video_Morris_Maze_30_days_Day1_Protons_rat3_12-27-52_DS.png,../data/test/Chaining/Video_Morris_Maze_30_days_Day1_Protons_rat3_12-27-52_DS.png,Chaining,0
+Video_Morris_Maze_30_days_Day1_Control_rat7_11-53-51_DS.png,../data/test/Chaining/Video_Morris_Maze_30_days_Day1_Control_rat7_11-53-51_DS.png,Chaining,0
+Video_Morris_Maze_30_days_Day2_Control_rat2_10-58-07_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day2_Control_rat2_10-58-07_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day2_Protons_rat2_11-46-00_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day2_Protons_rat2_11-46-00_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day1_Control_rat2_11-37-12_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day1_Control_rat2_11-37-12_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day2_Control_rat1_10-57-34_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day2_Control_rat1_10-57-34_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day2_Protons_rat7_12-01-10_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day2_Protons_rat7_12-01-10_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day1_Protons_rat5_12-38-48_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day1_Protons_rat5_12-38-48_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day1_Control_rat1_11-34-32_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day1_Control_rat1_11-34-32_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day2_Protons_rat2_11-47-07_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day2_Protons_rat2_11-47-07_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day1_Control_rat6_11-50-53_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day1_Control_rat6_11-50-53_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day1_Control_rat4_11-43-38_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day1_Control_rat4_11-43-38_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day1_Protons_rat5_12-36-59_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day1_Protons_rat5_12-36-59_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day2_Protons_rat3_11-49-32_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day2_Protons_rat3_11-49-32_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day1_Control_rat5_11-46-49_DS.png,../data/test/Direct path/Video_Morris_Maze_30_days_Day1_Control_rat5_11-46-49_DS.png,Direct path,1
+Video_Morris_Maze_30_days_Day1_Control_rat2_11-36-20_DS.png,../data/test/Direct search/Video_Morris_Maze_30_days_Day1_Control_rat2_11-36-20_DS.png,Direct search,2
+Video_Morris_Maze_30_days_Day2_Control_rat5_11-08-24_DS.png,../data/test/Direct search/Video_Morris_Maze_30_days_Day2_Control_rat5_11-08-24_DS.png,Direct search,2
+Video_Morris_Maze_30_days_Day3_Control_rat7_11-21-29_DS.png,../data/test/Direct search/Video_Morris_Maze_30_days_Day3_Control_rat7_11-21-29_DS.png,Direct search,2
+Video_Morris_Maze_30_days_Day2_Protons_rat7_12-01-58_DS.png,../data/test/Direct search/Video_Morris_Maze_30_days_Day2_Protons_rat7_12-01-58_DS.png,Direct search,2
+Video_Morris_Maze_30_days_Day2_Control_rat5_11-09-38_DS.png,../data/test/Direct search/Video_Morris_Maze_30_days_Day2_Control_rat5_11-09-38_DS.png,Direct search,2
+Video_Morris_Maze_30_days_Day3_Control_rat3_11-10-19_DS.png,../data/test/Direct search/Video_Morris_Maze_30_days_Day3_Control_rat3_11-10-19_DS.png,Direct search,2
+Video_Morris_Maze_30_days_Day2_Control_rat1_10-56-37_DS.png,../data/test/Focal search/Video_Morris_Maze_30_days_Day2_Control_rat1_10-56-37_DS.png,Focal search,3
+Video_Morris_Maze_30_days_Day2_Control_rat2_10-59-09_DS.png,../data/test/Focal search/Video_Morris_Maze_30_days_Day2_Control_rat2_10-59-09_DS.png,Focal search,3
+Video_Morris_Maze_30_days_Day2_Control_rat2_11-00-12_DS.png,../data/test/Focal search/Video_Morris_Maze_30_days_Day2_Control_rat2_11-00-12_DS.png,Focal search,3
+Video_Morris_Maze_30_days_Day2_Protons_rat3_11-48-45_DS.png,../data/test/Focal search/Video_Morris_Maze_30_days_Day2_Protons_rat3_11-48-45_DS.png,Focal search,3
+Video_Morris_Maze_30_days_Day2_Protons_rat7_12-02-37_DS.png,../data/test/Focal search/Video_Morris_Maze_30_days_Day2_Protons_rat7_12-02-37_DS.png,Focal search,3
+Video_Morris_Maze_30_days_Day1_Protons_rat5_12-38-03_DS.png,../data/test/Focal search/Video_Morris_Maze_30_days_Day1_Protons_rat5_12-38-03_DS.png,Focal search,3
+Video_Morris_Maze_30_days_Day1_Control_rat3_11-40-09_DS.png,../data/test/Focal search/Video_Morris_Maze_30_days_Day1_Control_rat3_11-40-09_DS.png,Focal search,3
+Video_Morris_Maze_30_days_Day2_Protons_rat2_11-45-00_DS.png,../data/test/Focal search/Video_Morris_Maze_30_days_Day2_Protons_rat2_11-45-00_DS.png,Focal search,3
+Video_Morris_Maze_30_days_Day2_Protons_rat1_11-42-37_DS.png,../data/test/Focal search/Video_Morris_Maze_30_days_Day2_Protons_rat1_11-42-37_DS.png,Focal search,3
+Video_Morris_Maze_30_days_Day2_Control_rat3_11-02-04_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day2_Control_rat3_11-02-04_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day1_Control_rat1_11-33-36_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day1_Control_rat1_11-33-36_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day2_Control_rat6_11-13-19_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day2_Control_rat6_11-13-19_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day2_Control_rat1_10-55-44_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day2_Control_rat1_10-55-44_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day2_Control_rat3_11-04-10_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day2_Control_rat3_11-04-10_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day2_Control_rat6_11-12-16_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day2_Control_rat6_11-12-16_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day1_Protons_rat1_12-24-46_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day1_Protons_rat1_12-24-46_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day1_Protons_rat3_12-28-53_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day1_Protons_rat3_12-28-53_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day1_Protons_rat2_12-26-18_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day1_Protons_rat2_12-26-18_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day2_Control_rat4_11-07-00_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day2_Control_rat4_11-07-00_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day2_Control_rat4_11-07-49_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day2_Control_rat4_11-07-49_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day1_Control_rat3_11-41-25_DS.png,../data/test/Indirect search/Video_Morris_Maze_30_days_Day1_Control_rat3_11-41-25_DS.png,Indirect search,4
+Video_Morris_Maze_30_days_Day1_Protons_rat6_12-41-45_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day1_Protons_rat6_12-41-45_DS.png,Random search,5
+Video_Morris_Maze_90_days_Day1_Protons_rat5_11-57-43_DS.png,../data/test/Random search/Video_Morris_Maze_90_days_Day1_Protons_rat5_11-57-43_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day1_Control_rat7_11-52-19_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day1_Control_rat7_11-52-19_DS.png,Random search,5
+Video_Morris_Maze_90_days_Day2_Protons_rat5_12-09-43_DS.png,../data/test/Random search/Video_Morris_Maze_90_days_Day2_Protons_rat5_12-09-43_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day2_Protons_rat5_11-55-21_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day2_Protons_rat5_11-55-21_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day1_Protons_rat7_12-45-58_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day1_Protons_rat7_12-45-58_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day3_Protons_rat1_11-41-46_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day3_Protons_rat1_11-41-46_DS.png,Random search,5
+Video_Morris_Maze_90_days_Day2_Control_rat3_10-40-14_DS.png,../data/test/Random search/Video_Morris_Maze_90_days_Day2_Control_rat3_10-40-14_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day2_Control_rat4_11-05-07_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day2_Control_rat4_11-05-07_DS.png,Random search,5
+Video_Morris_Maze_90_days_Day2_Control_rat2_10-35-35_DS.png,../data/test/Random search/Video_Morris_Maze_90_days_Day2_Control_rat2_10-35-35_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day1_Protons_rat4_12-34-46_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day1_Protons_rat4_12-34-46_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day1_Protons_rat6_12-39-28_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day1_Protons_rat6_12-39-28_DS.png,Random search,5
+Video_Morris_Maze_90_days_Day4_Protons_rat3_12-40-01_DS.png,../data/test/Random search/Video_Morris_Maze_90_days_Day4_Protons_rat3_12-40-01_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day1_Control_rat3_11-37-53_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day1_Control_rat3_11-37-53_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day4_Control_rat7_12-20-31_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day4_Control_rat7_12-20-31_DS.png,Random search,5
+Video_Morris_Maze_90_days_Day1_Control_rat6_11-23-04_DS.png,../data/test/Random search/Video_Morris_Maze_90_days_Day1_Control_rat6_11-23-04_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day2_Protons_rat5_11-52-47_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day2_Protons_rat5_11-52-47_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day4_Protons_rat2_12-41-50_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day4_Protons_rat2_12-41-50_DS.png,Random search,5
+Video_Morris_Maze_90_days_Day1_Protons_rat3_11-52-36_DS.png,../data/test/Random search/Video_Morris_Maze_90_days_Day1_Protons_rat3_11-52-36_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day1_Control_rat6_11-49-02_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day1_Control_rat6_11-49-02_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day3_Protons_rat1_11-39-48_DS.png,../data/test/Random search/Video_Morris_Maze_30_days_Day3_Protons_rat1_11-39-48_DS.png,Random search,5
+Video_Morris_Maze_90_days_Day2_Protons_rat4_12-05-00_DS.png,../data/test/Random search/Video_Morris_Maze_90_days_Day2_Protons_rat4_12-05-00_DS.png,Random search,5
+Video_Morris_Maze_30_days_Day1_Control_rat5_11-47-50_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day1_Control_rat5_11-47-50_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day1_Protons_rat2_12-27-04_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day1_Protons_rat2_12-27-04_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day1_Protons_rat1_12-22-42_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day1_Protons_rat1_12-22-42_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day1_Control_rat5_11-45-28_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day1_Control_rat5_11-45-28_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day2_Control_rat3_11-00-50_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day2_Control_rat3_11-00-50_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day1_Control_rat4_11-44-46_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day1_Control_rat4_11-44-46_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day1_Control_rat6_11-51-29_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day1_Control_rat6_11-51-29_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day1_Control_rat4_11-42-38_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day1_Control_rat4_11-42-38_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day1_Protons_rat7_12-44-50_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day1_Protons_rat7_12-44-50_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day2_Protons_rat4_11-50-12_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day2_Protons_rat4_11-50-12_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day2_Control_rat6_11-14-26_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day2_Control_rat6_11-14-26_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day1_Control_rat2_11-35-06_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day1_Control_rat2_11-35-06_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day2_Control_rat7_11-15-01_DS.png,../data/test/Scanning/Video_Morris_Maze_30_days_Day2_Control_rat7_11-15-01_DS.png,Scanning,6
+Video_Morris_Maze_30_days_Day1_Protons_rat1_12-23-38_DS.png,../data/test/Thigmotaxis/Video_Morris_Maze_30_days_Day1_Protons_rat1_12-23-38_DS.png,Thigmotaxis,7
+Video_Morris_Maze_30_days_Day1_Control_rat7_11-55-35_DS.png,../data/test/Thigmotaxis/Video_Morris_Maze_30_days_Day1_Control_rat7_11-55-35_DS.png,Thigmotaxis,7
+Video_Morris_Maze_30_days_Day1_Protons_rat4_12-31-05_DS.png,../data/test/Thigmotaxis/Video_Morris_Maze_30_days_Day1_Protons_rat4_12-31-05_DS.png,Thigmotaxis,7
+Video_Morris_Maze_30_days_Day1_Protons_rat6_12-44-11_DS.png,../data/test/Thigmotaxis/Video_Morris_Maze_30_days_Day1_Protons_rat6_12-44-11_DS.png,Thigmotaxis,7
+Video_Morris_Maze_30_days_Day1_Protons_rat4_12-32-20_DS.png,../data/test/Thigmotaxis/Video_Morris_Maze_30_days_Day1_Protons_rat4_12-32-20_DS.png,Thigmotaxis,7
